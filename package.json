@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Jothinayagan/nodejs-auth/issues"
   },
-  "homepage": "https://github.com/Jothinayagan/nodejs-auth#readme"
+  "homepage": "https://github.com/Jothinayagan/nodejs-auth#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "json-web-token": "^3.2.0"
+  }
 }
